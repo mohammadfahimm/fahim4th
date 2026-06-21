@@ -1,0 +1,6 @@
+{
+  "name": "UniCommand",
+  "description": "Engineering academic command center with sessional GPA trackers, attendance warning guards, and smart calendar routines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
